@@ -1,0 +1,33 @@
+
+
+
+  -- Physical Disk Information - Disk: #1: ST3500414CS --
+
+    Hard Disk Summary
+   -------------------
+    Hard Disk Number . . . . . . . . . . . . . . . . : 1
+    Interface  . . . . . . . . . . . . . . . . . . . : S-ATA II
+    Disk Controller  . . . . . . . . . . . . . . . . : Standard Dual Channel PCI IDE Controller (ATA) [VEN: 8086, DEV: 3B2D] Version: 10.0.19041.1288, 6-21-2006
+    Disk Location  . . . . . . . . . . . . . . . . . : Channel 0, Target 0, Lun 0, Device: 0
+    Hard Disk Model ID . . . . . . . . . . . . . . . : ST3500414CS
+    Firmware Revision  . . . . . . . . . . . . . . . : CA14
+    Hard Disk Serial Number  . . . . . . . . . . . . : 5VVF650R
+    Total Size . . . . . . . . . . . . . . . . . . . : 476937 MB
+    Power State  . . . . . . . . . . . . . . . . . . : Active
+    Logical Drive(s) . . . . . . . . . . . . . . . . : D: [New Volume] 
+    Current Temperature  . . . . . . . . . . . . . . : 42 °C
+    Power On Time  . . . . . . . . . . . . . . . . . : 0 days, 5 hours
+    Estimated Remaining Lifetime . . . . . . . . . . : 59 days
+    Health . . . . . . . . . . . . . . . . . . . . . : ###----------------- 18 % (Bad)
+    Performance  . . . . . . . . . . . . . . . . . . : #################### 100 % (Excellent)
+
+    There are 59 bad sectors on the disk surface. The contents of these sectors were moved to the spare area.
+    The drive found 29 bad sectors during its self test.
+    There are 29 weak sectors found on the disk surface. They may be remapped any time in the later use of the disk.
+    
+    1923 errors occurred during data transfer.
+    In case of sudden system crash, reboot, blue-screen-of-death, inaccessible file(s)/folder(s), it is recommended to verify data and power cables, connections - and if possible try different cables to prevent further problems.
+    
+    It is recommended to examine the log of the disk regularly. All new problems found will be logged there.
+      It is recommended to backup immediately to prevent data loss.
+
