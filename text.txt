@@ -5,7 +5,7 @@
 
     Hard Disk Summary
    -------------------
-    Hard Disk Number . . . . . . . . . . . . . . . . : 1
+    Hard Disk Number . . . . . . . . . . . . . . . . : 1111
     Interface  . . . . . . . . . . . . . . . . . . . : S-ATA II
     Disk Controller  . . . . . . . . . . . . . . . . : Standard Dual Channel PCI IDE Controller (ATA) [VEN: 8086, DEV: 3B2D] Version: 10.0.19041.1288, 6-21-2006
     Disk Location  . . . . . . . . . . . . . . . . . : Channel 0, Target 0, Lun 0, Device: 0
